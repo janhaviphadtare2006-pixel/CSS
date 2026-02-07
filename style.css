@@ -1,0 +1,20 @@
+#headingOne{
+    color:aliceblue;
+}
+.myClass{
+    color:aqua;
+}
+
+h2 {
+    color:#dd2d4a;
+}
+p {
+    color:#f26a8d;
+}
+button {
+    color:rgb(11, 1, 1);
+    background-color:#cbeef3;
+}
+body {
+    background-color:#f49cbb;
+}
